@@ -1,0 +1,9 @@
+# Generated audio outputs and temp
+data/mp3/
+data/output_mp3/
+data/output_wav/
+data/temp_chunks/
+data/textgrid/
+data/wav/
+logs/
+*.log
